@@ -16,7 +16,7 @@ Welcome to OrderFood, your go-to food app for a delightful dining experience!
 Explore OrderFood: [OrderFood Demo](https://OrderFood-wheat.vercel.app/)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/ankitjhagithub21/OrderFood.git`
+1. Clone the repository: `https://github.com/Nidhi932/OrderFood.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
 
